@@ -1,0 +1,11 @@
+student_id,name,grade,subjects,preferred_time_slots
+1,Ada,5,"Math, English",Morning
+2,Chinedu,8,Science,Afternoon
+3,Funke,6,"Math, Science","Morning, Evening"
+4,Emeka,7,"English, Science","Afternoon, Evening"
+5,Kemi,9,Math,Morning
+6,Tolu,4,"Math, English",Afternoon
+7,Bola,10,Science,"Morning, Afternoon"
+8,Ibrahim,6,English,Evening
+9,Chioma,8,"Math, Science, English","Morning, Evening"
+10,Seun,5,Math,"Afternoon, Evening"

@@ -1,0 +1,102 @@
+[
+  {
+    "student_id": 9,
+    "teacher_id": 4,
+    "time_slot": "Morning",
+    "lesson_type": "Group",
+    "subjects": "Math, English",
+    "compatibility_score": 0.667,
+    "student_name": "Chioma",
+    "teacher_name": "Ms. Sarah"
+  },
+  {
+    "student_id": 5,
+    "teacher_id": 1,
+    "time_slot": "Morning",
+    "lesson_type": "1:1",
+    "subjects": "Math",
+    "compatibility_score": 0.5,
+    "student_name": "Kemi",
+    "teacher_name": "Mr. Obi"
+  },
+  {
+    "student_id": 3,
+    "teacher_id": 1,
+    "time_slot": "Morning",
+    "lesson_type": "Group",
+    "subjects": "Math",
+    "compatibility_score": 0.5,
+    "student_name": "Funke",
+    "teacher_name": "Mr. Obi"
+  },
+  {
+    "student_id": 1,
+    "teacher_id": 4,
+    "time_slot": "Morning",
+    "lesson_type": "Group",
+    "subjects": "Math, English",
+    "compatibility_score": 0.667,
+    "student_name": "Ada",
+    "teacher_name": "Ms. Sarah"
+  },
+  {
+    "student_id": 2,
+    "teacher_id": 2,
+    "time_slot": "Afternoon",
+    "lesson_type": "1:1",
+    "subjects": "Science",
+    "compatibility_score": 0.5,
+    "student_name": "Chinedu",
+    "teacher_name": "Mrs. Ama"
+  },
+  {
+    "student_id": 6,
+    "teacher_id": 3,
+    "time_slot": "Afternoon",
+    "lesson_type": "1:1",
+    "subjects": "Math",
+    "compatibility_score": 0.5,
+    "student_name": "Tolu",
+    "teacher_name": "Mr. John"
+  },
+  {
+    "student_id": 10,
+    "teacher_id": 3,
+    "time_slot": "Afternoon",
+    "lesson_type": "Group",
+    "subjects": "Math",
+    "compatibility_score": 0.5,
+    "student_name": "Seun",
+    "teacher_name": "Mr. John"
+  },
+  {
+    "student_id": 4,
+    "teacher_id": 5,
+    "time_slot": "Afternoon",
+    "lesson_type": "1:1",
+    "subjects": "Science",
+    "compatibility_score": 0.5,
+    "student_name": "Emeka",
+    "teacher_name": "Dr. Kola"
+  },
+  {
+    "student_id": 7,
+    "teacher_id": 5,
+    "time_slot": "Afternoon",
+    "lesson_type": "Group",
+    "subjects": "Science",
+    "compatibility_score": 0.5,
+    "student_name": "Bola",
+    "teacher_name": "Dr. Kola"
+  },
+  {
+    "student_id": 8,
+    "teacher_id": 2,
+    "time_slot": "Evening",
+    "lesson_type": "1:1",
+    "subjects": "English",
+    "compatibility_score": 0.5,
+    "student_name": "Ibrahim",
+    "teacher_name": "Mrs. Ama"
+  }
+]

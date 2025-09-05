@@ -1,0 +1,11 @@
+student_id,student_name,teacher_id,teacher_name,time_slot,lesson_type,subjects,compatibility_score
+9,Chioma,4,Ms. Sarah,Morning,Group,"Math, English",0.667
+5,Kemi,1,Mr. Obi,Morning,1:1,Math,0.5
+3,Funke,1,Mr. Obi,Morning,Group,Math,0.5
+1,Ada,4,Ms. Sarah,Morning,Group,"Math, English",0.667
+2,Chinedu,2,Mrs. Ama,Afternoon,1:1,Science,0.5
+6,Tolu,3,Mr. John,Afternoon,1:1,Math,0.5
+10,Seun,3,Mr. John,Afternoon,Group,Math,0.5
+4,Emeka,5,Dr. Kola,Afternoon,1:1,Science,0.5
+7,Bola,5,Dr. Kola,Afternoon,Group,Science,0.5
+8,Ibrahim,2,Mrs. Ama,Evening,1:1,English,0.5
